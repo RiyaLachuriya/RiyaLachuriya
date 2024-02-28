@@ -49,5 +49,5 @@ I am a detail-oriented and results-driven Business Analyst with a Master of Scie
 - FIFA Player Wages and World Cup Predictor
 - Healthcare Decision Support & Customer Satisfaction Enhancement
 - Data Analytics Project: Python & SQL
-- Sales Data Analysis Prpject of Amazon
+- Sales Data Analysis Project of Amazon
 
